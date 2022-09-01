@@ -1,1 +1,1 @@
-This is a ReadMe file for the vagrant project
+A ReadMe file.
